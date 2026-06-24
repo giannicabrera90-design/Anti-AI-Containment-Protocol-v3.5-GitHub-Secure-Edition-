@@ -28,7 +28,7 @@ El script requiere bibliotecas de análisis de sistema y privilegios elevados pa
 
 ```bash
 # Clonar el repositorio seguro
-git clone https://github.com/tu-usuario/anti-ai-containment.git
+git clone https://github.com/giannicabrera90-design/Anti-AI-Containment-Protocol-v3.5-GitHub-Secure-Edition-/
 cd anti-ai-containment
 
 # Instalar dependencias
